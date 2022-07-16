@@ -1,2 +1,4 @@
 # try-compromise
-Try Compromise
+
+Try Compromise - <https://github.com/spencermountain/compromise> - natural
+language processing.
